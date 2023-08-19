@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 reqwest = "0.11.18"
 sqlx = "0.7.1"
+thiserror = "1"
